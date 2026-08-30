@@ -1,1 +1,1 @@
-# Tech_2_Semester
+# Tech_2
